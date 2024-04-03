@@ -1,3 +1,7 @@
 #!/bin/bash
-This is repo that teaching us how to use basics for shell and wow it is showing me flames
-dsafasdfdfdafdfdasfdfdsafdsfdsfdsafdsafdsafghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhfdgggggggggggggggggggggggggggggggggggg
+
+ wc -l 12-file_type 
+2 12-file_type
+ -n 1 12-file_type 
+#!/bin/bash
+ 

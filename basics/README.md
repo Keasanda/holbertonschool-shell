@@ -1,3 +1,6 @@
 #!/bin/bash
-This is making me cry tears I have heard enough wowggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfffffffffffffffffffffffffffffffffgggg
-dsfsdfsdfdsfdsafdasfdsfdsfdasfdsfdasfdsafasdfasdfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+  wc -l 12-file_type 
+2 12-file_type
+ -n 1 12-file_type 
+#!/bin/bash
