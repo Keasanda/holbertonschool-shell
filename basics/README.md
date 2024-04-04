@@ -1,6 +1,5 @@
-#!/bin/bash
+  12-folder_type
 
-  wc -l 12-file_type 
-2 12-file_type
- -n 1 12-file_type 
-#!/bin/bash
+  #!/bin/bash   
+  
+
