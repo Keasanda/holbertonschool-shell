@@ -1,5 +1,4 @@
-  12-folder_type
-
-  #!/bin/bash   
+#!/bin/bash   
   
+ wserdecftgyhj
 

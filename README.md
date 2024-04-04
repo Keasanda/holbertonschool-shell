@@ -1,6 +1,3 @@
--la llll_file
-
 #!/bin/bash
 
- 
- 
+zadxfcgvh bjn
