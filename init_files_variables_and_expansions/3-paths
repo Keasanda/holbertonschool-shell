@@ -1,2 +1,8 @@
 #!/bin/bash
-echo $PATH | tr ':' '\n' | wc -l
+
+
+# Splitting the PATH variable by ':' and then counting the elements
+IFS=':' read -ra PATH_ARRAY <<< "$PATH"
+NUM_DIRECTORIES="${#PATH_ARRAY[@]}"
+echo "$NUM_DIRECTORIES"
+
