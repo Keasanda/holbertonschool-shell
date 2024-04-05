@@ -1,4 +1,2 @@
-NUM_DIRS=$(echo "$PATH_DIRS" | wc -l)
-
-# Print the result
-echo "There are $NUM_DIRS directories in the PATH variable."
+#!/bin/bash
+echo $PATH | tr ':' '\n' | wc -l
