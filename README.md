@@ -1,3 +1,2 @@
 #!/bin/bash
-
-zadxfcgvh bjn
+This is a new repo. Lessons are on shell aka terminal
